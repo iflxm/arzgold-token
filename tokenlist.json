@@ -1,0 +1,20 @@
+
+{
+  "name": "ArzGold Token List",
+  "timestamp": "2026-11-22T22:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x335115068C3807a175b214253817d807975EDaB4",
+      "name": "ArzGold",
+      "symbol": "ARGD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/iflxm/arzgold-token/main/arzgold-logo.png"
+    }
+  ]
+}
